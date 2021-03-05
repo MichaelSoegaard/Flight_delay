@@ -7,7 +7,8 @@ The question we are going to answer is:
  - are we more likely to experince delays at specific weekdays?
  - is there a difference in the amount a delays based on the carrier?
  - is there a difference in the amount a delays based on the departure airport?
- - is there a difference in the amount a delays based on the arriving airport?
+ - is there a difference in the amount a delays based on the arrival airport?
+ - is there a difference in the amount a delays based on length of flight?
 
 ### Dataset
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
@@ -19,6 +20,6 @@ We get data from January 2019 and 2020 and need to prdict flight delays. In this
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzA1MDM4OCwtMjY1OTYxNDMzLDEyND
+eyJoaXN0b3J5IjpbLTkzMTAyOTExNSwtMjY1OTYxNDMzLDEyND
 A4NTY5NSwtMTQ0OTE1ODUxMSwtMTQzMzUyNTc4MF19
 -->
