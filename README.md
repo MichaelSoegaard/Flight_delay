@@ -12,7 +12,10 @@ The question we are going to answer is:
  - Is there a difference in the amount a delays based on length of flight?
 
 ### Conclusions
-After some 
+After some data cleaning it was possible to predict flight delays.
+We tried three different models which got the following scores:
+
+ - Logistic Regression ROC AUC score: 
 
 ### Dataset
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
@@ -25,7 +28,7 @@ We get data from January 2019 and 2020 and need to prdict flight delays. In this
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTcwMzk5OCwxODY0ODg2NjE1LC05Mz
+eyJoaXN0b3J5IjpbMTAzNjI4NDMyNCwxODY0ODg2NjE1LC05Mz
 EwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1
 MTEsLTE0MzM1MjU3ODBdfQ==
 -->
