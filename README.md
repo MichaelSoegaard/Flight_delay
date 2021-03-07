@@ -52,12 +52,13 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
 When we look at delays in relation to day of month, there isn't a very clear trend. The 18th is the day with most delays, as **25%** of it's flight get delayed, while the day with fewest delays is the 9th, with **10%** of it's flights getting delayed. The percentage is relative to the days amount of flights. 
 ![Date_delays](/img/day_of_month_delays.png)
 
-
+***Are we more likely to experince delays at specific weekdays?***
+When we plot the different days
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTcyNjk2NCwtMTU2MTM2NzQ3LC0xNT
-M3NjUzNDU0LC0xMDQ3MzE1OTQ5LDE0NzkyODMwNDQsLTEwMzMz
-NzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcsMjA4NjM0OT
-EwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC0y
-NjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMzNT
-I1NzgwXX0=
+eyJoaXN0b3J5IjpbLTc2MDQ4MzAxNCwtNjExNzI2OTY0LC0xNT
+YxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4
+MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNT
+IxNywyMDg2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05
+MzEwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNT
+g1MTEsLTE0MzM1MjU3ODBdfQ==
 -->
