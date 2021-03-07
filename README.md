@@ -28,12 +28,12 @@ The dataset cosists of app. 800,000 rows, 21 columns, of which 20  are features 
 
 ### Data pipeline
 
-In this project there is a lot of work in preprocessing. A lot of missing values and different categorical features.  I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
+In this project there is a lot of work in preprocessing. We needed to get rid of redundant columns which didn't add any info to the model, such as ID' for flights and carriers.   I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjkxNzgxNTgsLTE5ODk0MjUyMTcsMj
-A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
-MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
-0xNDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbNDY5NDg4NTAwLC0xOTg5NDI1MjE3LDIwOD
+YzNDkxMDgsOTk2NjAyMDU0LDE4NjQ4ODY2MTUsLTkzMTAyOTEx
+NSwtMjY1OTYxNDMzLDEyNDA4NTY5NSwtMTQ0OTE1ODUxMSwtMT
+QzMzUyNTc4MF19
 -->
