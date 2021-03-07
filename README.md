@@ -42,13 +42,14 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - One-hot encoding categorical features which were not ordinal
  - Ordinal encoding a couple of features
  - Scaling of numeric features
+ - Dimensionality reduction by using SVD due to very large and sparse dataset.
  - 
 
    I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkwODYzNzUsLTE5ODk0MjUyMTcsMj
+eyJoaXN0b3J5IjpbLTE2OTcyMTQ2MDEsLTE5ODk0MjUyMTcsMj
 A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
 MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
 0xNDMzNTI1NzgwXX0=
