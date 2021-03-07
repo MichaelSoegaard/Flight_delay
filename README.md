@@ -53,9 +53,9 @@ When we look at delays in relation to day of month, there isn't a very clear tre
 ![Date_delays](/img/day_of_month_delays.png)
 
 ***Are we more likely to experince delays at specific weekdays?***
-When we plot the different days
+When we plot the different weekdays, we don't see much variation in the amount of delays realt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDQ4MzAxNCwtNjExNzI2OTY0LC0xNT
+eyJoaXN0b3J5IjpbMTA0MjIxNDM3MCwtNjExNzI2OTY0LC0xNT
 YxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4
 MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNT
 IxNywyMDg2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05
