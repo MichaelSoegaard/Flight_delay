@@ -53,7 +53,7 @@ When we look at delays in relation to day of month, there isn't a very clear tre
 ![Date_delays](/img/day_of_month_delays.png)
 
 ***Are we more likely to experince delays at specific weekdays?***  
-When we plot the different weekdays, we don't see much variation in the amount of delays realtive to each other. Tuesdays is the lowest with 12,3% of it's flight getting delayed and Thrusday is the higheste with 17,8 % of its' flights getting delayed.
+When we plot the different weekdays, we don't see much variation in the amount of delays realtive to each other. Tuesdays is the lowest with 12,3% of it's flight getting delayed and Thrusday is the higheste with 17,8 % of it's flights getting delayed.
 ![weekday delays](/img/weekday_delays.png)
 
 ***Is there a difference in the amount a delays based on the carrier?***  
@@ -62,11 +62,11 @@ Carrier is equivalant to airline and even though there is quite a difference in 
 
 There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %. The mean delay percentage is 17.9%. Even though the data only is based on two months of data, each airline have a lot of flights which makes these calculations more reliable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MD
-k3NzY0OSwtMTI4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAz
-NDgwLDMxNDEyNTAwNSwtMTY1NDUwNjQ0NSw1MzA0MDYwODYsMz
-I0OTQzOTQxLC02MTE3MjY5NjQsLTE1NjEzNjc0NywtMTUzNzY1
-MzQ1NCwtMTA0NzMxNTk0OSwxNDc5MjgzMDQ0LC0xMDMzMzcwNz
-I1LC0xOTgzNDQ0MDY5LC0xOTg5NDI1MjE3LDIwODYzNDkxMDgs
-OTk2NjAyMDU0XX0=
+eyJoaXN0b3J5IjpbLTM4NzI3MjEwMCwtMTQzMDcwMDkyLDE5Nj
+c2MDc3OTYsNDUwOTc3NjQ5LC0xMjg4NTk5NjM0LC0xMjg4NTk5
+NjM0LDIwOTkwMDM0ODAsMzE0MTI1MDA1LC0xNjU0NTA2NDQ1LD
+UzMDQwNjA4NiwzMjQ5NDM5NDEsLTYxMTcyNjk2NCwtMTU2MTM2
+NzQ3LC0xNTM3NjUzNDU0LC0xMDQ3MzE1OTQ5LDE0NzkyODMwND
+QsLTEwMzMzNzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcs
+MjA4NjM0OTEwOF19
 -->
