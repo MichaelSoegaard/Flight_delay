@@ -49,12 +49,12 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
 
 ### Data analysis
 ***Are we more likely to experince delays at specific dates?***
-When we look at delays in relation to day of month, there isn't a very clear trend. The 18th is the day with most delays, as 25% of it's flight get
+When we look at delays in relation to day of month, there isn't a very clear trend. The 18th is the day with most delays, as **25%** of it's flight get delayed, while the day with fewest delays is the 9th, with 10% of it's flights getThe percentage is relative to the days amount of flights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4ODA4MjI2LC0xNTYxMzY3NDcsLTE1Mz
-c2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMTAzMzM3
-MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2MzQ5MT
-A4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMTUsLTI2
-NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0MzM1Mj
-U3ODBdfQ==
+eyJoaXN0b3J5IjpbMTY0MjYzNTQzNywtMTU2MTM2NzQ3LC0xNT
+M3NjUzNDU0LC0xMDQ3MzE1OTQ5LDE0NzkyODMwNDQsLTEwMzMz
+NzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcsMjA4NjM0OT
+EwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC0y
+NjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMzNT
+I1NzgwXX0=
 -->
