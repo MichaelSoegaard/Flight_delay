@@ -57,13 +57,13 @@ When we plot the different weekdays, we don't see much variation in the amount o
 <p align="center">![weekday delays](/img/weekday_delays.png)</p>
 
 ***Is there a difference in the amount a delays based on the carrier?***
-Carrier is equivalant to airline and even though there is quite a difference in the airlines sizes and the amount of flights they each handle, that isn't something that matters apparently in the
+Carrier is equivalant to airline and even though there is quite a difference in the airlines sizes and the amount of flights they each handle, that isn't something that's refelcted in the amount of delays they each have. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNDIxNzk5LC0xNjU0NTA2NDQ1LDUzMD
-QwNjA4NiwzMjQ5NDM5NDEsLTYxMTcyNjk2NCwtMTU2MTM2NzQ3
-LC0xNTM3NjUzNDU0LC0xMDQ3MzE1OTQ5LDE0NzkyODMwNDQsLT
-EwMzMzNzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcsMjA4
-NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MT
-E1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0x
-NDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbLTgzODc1MjY0NSwtMTY1NDUwNjQ0NSw1Mz
+A0MDYwODYsMzI0OTQzOTQxLC02MTE3MjY5NjQsLTE1NjEzNjc0
+NywtMTUzNzY1MzQ1NCwtMTA0NzMxNTk0OSwxNDc5MjgzMDQ0LC
+0xMDMzMzcwNzI1LC0xOTgzNDQ0MDY5LC0xOTg5NDI1MjE3LDIw
+ODYzNDkxMDgsOTk2NjAyMDU0LDE4NjQ4ODY2MTUsLTkzMTAyOT
+ExNSwtMjY1OTYxNDMzLDEyNDA4NTY5NSwtMTQ0OTE1ODUxMSwt
+MTQzMzUyNTc4MF19
 -->
