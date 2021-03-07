@@ -47,9 +47,12 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Dimensionality reduction by using SVD due to very large and sparse dataset.
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
+### Data analysis
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMzNzA3MjUsLTE5ODM0NDQwNjksLT
-E5ODk0MjUyMTcsMjA4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4
-NjYxNSwtOTMxMDI5MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC
-0xNDQ5MTU4NTExLC0xNDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMT
+k4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2MzQ5MTA4LDk5NjYw
+MjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMTUsLTI2NTk2MTQzMy
+wxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0MzM1MjU3ODBdfQ==
+
 -->
