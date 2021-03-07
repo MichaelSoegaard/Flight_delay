@@ -19,7 +19,7 @@ We tried three different models which got the following scores:
  -  XGBoost ROC AUC score: 95
  - RandomForest ROC AUC score: 90
  
- So the best score is achieved by using an AXBoos
+ So the best score is achieved by using an XGBoost model with a standard threshold of 50/50
 
 ### Dataset
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
@@ -32,7 +32,7 @@ We get data from January 2019 and 2020 and need to prdict flight delays. In this
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUyOTI1MzgsMTg2NDg4NjYxNSwtOT
-MxMDI5MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4
-NTExLC0xNDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbOTk2NjAyMDU0LDE4NjQ4ODY2MTUsLTkzMT
+AyOTExNSwtMjY1OTYxNDMzLDEyNDA4NTY5NSwtMTQ0OTE1ODUx
+MSwtMTQzMzUyNTc4MF19
 -->
