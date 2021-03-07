@@ -15,7 +15,11 @@ The question we are going to answer is:
 After some data cleaning it was possible to predict flight delays.
 We tried three different models which got the following scores:
 
- - Logistic Regression ROC AUC score: 
+ - Logistic Regression ROC AUC score: 90
+ -  XGBoost ROC AUC score: 95
+ - RandomForest ROC AUC score: 90
+ 
+ So the best score is achieved by using an AXBoos
 
 ### Dataset
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
@@ -28,7 +32,7 @@ We get data from January 2019 and 2020 and need to prdict flight delays. In this
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjI4NDMyNCwxODY0ODg2NjE1LC05Mz
-EwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1
-MTEsLTE0MzM1MjU3ODBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjUyOTI1MzgsMTg2NDg4NjYxNSwtOT
+MxMDI5MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4
+NTExLC0xNDMzNTI1NzgwXX0=
 -->
