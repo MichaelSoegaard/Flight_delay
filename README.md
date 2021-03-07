@@ -1,5 +1,5 @@
 # Flight delay prediction
-
+![Flight_delay_img](https://github.com/MichaelSoegaard/Flight_delay/blob/master/img/flight_delay2.jpg)
 ## Overview
 In this project we are going to make an explanatory analysis of a dataset consisting of data from flights in the US from January 2019 and 2020. After we have cleaned the data we are going to create various models to predict whether flights are likely to be delayed or not. So this is a binary classification task.
 The question we are going to answer is:
@@ -33,7 +33,8 @@ We get data from January 2019 and 2020 and need to prdict flight delays. In this
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjM0OTEwOCw5OTY2MDIwNTQsMTg2ND
-g4NjYxNSwtOTMxMDI5MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1
-LC0xNDQ5MTU4NTExLC0xNDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbLTE5ODk0MjUyMTcsMjA4NjM0OTEwOCw5OT
+Y2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC0yNjU5NjE0
+MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMzNTI1NzgwXX
+0=
 -->
