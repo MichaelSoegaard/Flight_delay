@@ -14,13 +14,13 @@ The question we are going to answer is:
 
 ### Conclusions
 After some data cleaning it was possible to predict flight delays.
-We tried three different models which got the following scores:
+We tried three different models which got the following scores on validation sets:
 
  - Logistic Regression ROC AUC score: 90
  -  XGBoost ROC AUC score: 95
  - RandomForest ROC AUC score: 90
  
- So the best score is achieved by using an XGBoost model with a standard threshold of 50/50
+The best score is achieved by using an XGBoost model with a standard threshold of 50/50
 
 ### Dataset
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
@@ -45,12 +45,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Dimensionality reduction by using SVD due to very large and sparse dataset.
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
-   I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
-
-I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzYwOTMyNywtMTk4OTQyNTIxNywyMD
-g2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkx
-MTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLT
-E0MzM1MjU3ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3ODI1NTI2MDksLTE5ODk0MjUyMTcsMj
+A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
+MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
+0xNDMzNTI1NzgwXX0=
 -->
