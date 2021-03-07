@@ -48,11 +48,12 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
 ### Data analysis
-
+***Are we more likely to experince delays at specific dates?***
+When we look at delys in relation to day 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMT
-AzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2
-MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMT
-UsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0
-MzM1MjU3ODBdfQ==
+eyJoaXN0b3J5IjpbLTExNDgxNzczMTQsLTEwNDczMTU5NDksMT
+Q3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4
+OTQyNTIxNywyMDg2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2Nj
+E1LC05MzEwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0
+NDkxNTg1MTEsLTE0MzM1MjU3ODBdfQ==
 -->
