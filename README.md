@@ -57,13 +57,13 @@ When we plot the different weekdays, we don't see much variation in the amount o
 <p align="center">![weekday delays](/img/weekday_delays.png)</p>
 
 ***Is there a difference in the amount a delays based on the carrier?***
-
+C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyND
-k0Mzk0MSwtNjExNzI2OTY0LC0xNTYxMzY3NDcsLTE1Mzc2NTM0
-NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNS
-wtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2MzQ5MTA4LDk5
-NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMTUsLTI2NTk2MT
-QzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0MzM1MjU3ODBd
-fQ==
+eyJoaXN0b3J5IjpbNjYzNTcyNzgsLTE2NTQ1MDY0NDUsNTMwND
+A2MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC0xNTYxMzY3NDcs
+LTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMT
+AzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2
+MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMT
+UsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0
+MzM1MjU3ODBdfQ==
 -->
