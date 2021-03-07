@@ -49,9 +49,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
 
 ### Data analysis
 ***Are we more likely to experince delays at specific dates?***
-When we look at delys in relation to day 
+When we look at delys in relation to day of month, there isn't a very clear trend. But there's quite a difference 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgxNzczMTQsLTEwNDczMTU5NDksMT
+eyJoaXN0b3J5IjpbLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMT
 Q3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4
 OTQyNTIxNywyMDg2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2Nj
 E1LC05MzEwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0
