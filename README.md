@@ -17,7 +17,7 @@ After some data cleaning it was possible to predict flight delays.
 We tried three different models which got the following scores on validation sets:
 
  - Logistic Regression ROC AUC score: 90
- -  Xgboost ROC AUC score: 95
+ -  Xgboost ROC AUC score: 9
  - RandomForest ROC AUC score: 90
  
  I then choose Xgboost as my model and tested it on the test set, which achieved a ROC AUC score of XX
@@ -50,9 +50,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
 ### Data analysis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMT
-k4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2MzQ5MTA4LDk5NjYw
-MjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMTUsLTI2NTk2MTQzMy
-wxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0MzM1MjU3ODBdfQ==
-
+eyJoaXN0b3J5IjpbMTA3Nzk0NDIxLDE0NzkyODMwNDQsLTEwMz
+MzNzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcsMjA4NjM0
+OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC
+0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMz
+NTI1NzgwXX0=
 -->
