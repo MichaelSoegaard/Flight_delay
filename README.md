@@ -26,20 +26,23 @@ We tried three different models which got the following scores:
  Data based on [this](https://www.kaggle.com/divyansh22/flight-delay-prediction) Kaggle dataset. 
 The dataset cosists of app. 800,000 rows, 21 columns, of which 20  are features and 1 taget. Data has been collected for January 2019 and 2020, so the thought was to predict delays on a per month basis. In this dataset we have data for January and thus we would you it to predict delays for January 2021. To get more info about each feature please view the feature cookbook.
 
-### Data pipeline
+### Data cleaning
 
 In this project there is a lot of work in preprocessing. 
 
  1. We needed to get rid of redundant columns which didn't add any info to the model, such as ID' for flights and carriers.
  2. We had to create new categorical features based numerical values of other columns.
- 3. Target label was created by concatenating delayed flights with flights that were diverted og cancelled. This is clearly a subjective choice, but I choose to treat them all as if
+ 3. Target label was created by concatenating delayed flights with flights that were diverted or cancelled. This is clearly a subjective choice, but I choose to treat them all as if the flights were delayed.
+ 4. 
+
+### Data pipeline
 
    I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MzQwMDU3LC0xOTg5NDI1MjE3LDIwOD
-YzNDkxMDgsOTk2NjAyMDU0LDE4NjQ4ODY2MTUsLTkzMTAyOTEx
-NSwtMjY1OTYxNDMzLDEyNDA4NTY5NSwtMTQ0OTE1ODUxMSwtMT
-QzMzUyNTc4MF19
+eyJoaXN0b3J5IjpbLTE0MjQ2MjA0ODEsLTE5ODk0MjUyMTcsMj
+A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
+MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
+0xNDMzNTI1NzgwXX0=
 -->
