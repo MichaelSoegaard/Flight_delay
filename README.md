@@ -57,13 +57,13 @@ When we plot the different weekdays, we don't see much variation in the amount o
 <p align="center">![weekday delays](/img/weekday_delays.png)</p>
 
 ***Is there a difference in the amount a delays based on the carrier?***
-Carrier is equivalant to airline and even though there is quite a difference in the airlines sizes and the amount of flights they each handle, that isn't something that's reflected in the amount of delays they each have. There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %
+Carrier is equivalant to airline and even though there is quite a difference in the airlines sizes and the amount of flights they each handle, that isn't something that's reflected in the amount of delays they each have. There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %. The mean delay percentage is 17.9%. Even though
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NT
-Q1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0
-LC0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMT
-Q3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4
-OTQyNTIxNywyMDg2MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2Nj
-E1LC05MzEwMjkxMTUsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0
-NDkxNTg1MTFdfQ==
+eyJoaXN0b3J5IjpbOTk2MzAzNjEwLDIwOTkwMDM0ODAsMzE0MT
+I1MDA1LC0xNjU0NTA2NDQ1LDUzMDQwNjA4NiwzMjQ5NDM5NDEs
+LTYxMTcyNjk2NCwtMTU2MTM2NzQ3LC0xNTM3NjUzNDU0LC0xMD
+Q3MzE1OTQ5LDE0NzkyODMwNDQsLTEwMzMzNzA3MjUsLTE5ODM0
+NDQwNjksLTE5ODk0MjUyMTcsMjA4NjM0OTEwOCw5OTY2MDIwNT
+QsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC0yNjU5NjE0MzMsMTI0
+MDg1Njk1XX0=
 -->
