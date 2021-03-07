@@ -20,7 +20,7 @@ We tried three different models which got the following scores on validation set
  -  Xgboost ROC AUC score: 94
  - RandomForest ROC AUC score: 90
  
- I then choose Xgboost as my model and tested it on the test set, which achieved a ROC AUC score of XX
+ I then choose Xgboost as my final model and tested it on the test set, which achieved a __ROC AUC score of 93
  
 The best score is achieved by using an XGBoost model with a standard threshold of 50/50
 
@@ -50,9 +50,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
 ### Data analysis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzk1MDQzLDE0NzkyODMwNDQsLTEwMz
-MzNzA3MjUsLTE5ODM0NDQwNjksLTE5ODk0MjUyMTcsMjA4NjM0
-OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC
-0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMz
-NTI1NzgwXX0=
+eyJoaXN0b3J5IjpbLTEyODA5OTY0MjksMTQ3OTI4MzA0NCwtMT
+AzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywyMDg2
+MzQ5MTA4LDk5NjYwMjA1NCwxODY0ODg2NjE1LC05MzEwMjkxMT
+UsLTI2NTk2MTQzMywxMjQwODU2OTUsLTE0NDkxNTg1MTEsLTE0
+MzM1MjU3ODBdfQ==
 -->
