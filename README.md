@@ -32,13 +32,14 @@ In this project there is a lot of work in preprocessing.
 
  1. We needed to get rid of redundant columns which didn't add any info to the model, such as ID' for flights and carriers.
  2. We had to create new categorical features based numerical values of other columns.
+ 3. Target label was created by concatenating delayed flights with flights that were diverted og cancelled. This is clearly a subjective choice, but I choose to treat them all as if
 
    I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA5OTI4NTksLTE5ODk0MjUyMTcsMj
-A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
-MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
-0xNDMzNTI1NzgwXX0=
+eyJoaXN0b3J5IjpbODU1MzQwMDU3LC0xOTg5NDI1MjE3LDIwOD
+YzNDkxMDgsOTk2NjAyMDU0LDE4NjQ4ODY2MTUsLTkzMTAyOTEx
+NSwtMjY1OTYxNDMzLDEyNDA4NTY5NSwtMTQ0OTE1ODUxMSwtMT
+QzMzUyNTc4MF19
 -->
