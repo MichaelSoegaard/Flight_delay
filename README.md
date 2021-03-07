@@ -16,10 +16,12 @@ The dataset cosists of app. 800,000 rows, 21 columns, of which 20  are features 
 
 
 
+
 We get data from January 2019 and 2020 and need to prdict flight delays. In this project there is a lot of work in preprocessing. A lot of missing values and different categorical features. First priority was to solve this and get a get the best ROC AUC score. I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTAyOTExNSwtMjY1OTYxNDMzLDEyND
-A4NTY5NSwtMTQ0OTE1ODUxMSwtMTQzMzUyNTc4MF19
+eyJoaXN0b3J5IjpbMTg2NDg4NjYxNSwtOTMxMDI5MTE1LC0yNj
+U5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC0xNDMzNTI1
+NzgwXX0=
 -->
