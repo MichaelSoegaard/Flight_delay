@@ -36,12 +36,15 @@ In this project there is a lot of work in preprocessing.
  4. 
 
 ### Data pipeline
+I created pipelines for all the models trained. All models used the same pipeline, which involved:
+
+ - One-hot encoding categorical feature
 
    I tried different boosting algorithms to compare as well as an ordinary Logistic regression to use as baseline.
 
 I used Scikit-Learn a lot including Transform, Pipeline and GridSearchCV.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ2MjA0ODEsLTE5ODk0MjUyMTcsMj
+eyJoaXN0b3J5IjpbLTEwNjU5MDEwMDIsLTE5ODk0MjUyMTcsMj
 A4NjM0OTEwOCw5OTY2MDIwNTQsMTg2NDg4NjYxNSwtOTMxMDI5
 MTE1LC0yNjU5NjE0MzMsMTI0MDg1Njk1LC0xNDQ5MTU4NTExLC
 0xNDMzNTI1NzgwXX0=
