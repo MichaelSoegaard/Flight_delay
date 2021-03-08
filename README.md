@@ -68,12 +68,14 @@ Airports in the US, which are included in this dataset, comes in many different 
 
 ***Is there a difference in the amount a delays based on the arrival airport?***  
 As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. The airport with the higeste percentage of delays is Muskegon airport (mkg) in Michigan where 47.5 % of all arrivals are delayed
+![origin delays](/img/origin_delays.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODA1NDQ0NCwtMTE2MDc3MTc4NSwtMz
-M0MTQ5MDQsLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0
-OSwtMTI4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLD
-MxNDEyNTAwNSwtMTY1NDUwNjQ0NSw1MzA0MDYwODYsMzI0OTQz
-OTQxLC02MTE3MjY5NjQsLTE1NjEzNjc0NywtMTUzNzY1MzQ1NC
-wtMTA0NzMxNTk0OSwxNDc5MjgzMDQ0LC0xMDMzMzcwNzI1LC0x
-OTgzNDQ0MDY5XX0=
+eyJoaXN0b3J5IjpbODIxNDcyNDI3LC03ODgwNTQ0NDQsLTExNj
+A3NzE3ODUsLTMzNDE0OTA0LC0xNDMwNzAwOTIsMTk2NzYwNzc5
+Niw0NTA5Nzc2NDksLTEyODg1OTk2MzQsLTEyODg1OTk2MzQsMj
+A5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NTQ1MDY0NDUsNTMwNDA2
+MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC0xNTYxMzY3NDcsLT
+E1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMTAz
+MzM3MDcyNV19
 -->
