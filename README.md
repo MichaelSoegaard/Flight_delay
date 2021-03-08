@@ -66,22 +66,25 @@ When we look at delays in relation to day of month, there isn't a very clear tre
 When we plot the different weekdays, we don't see much variation in the amount of delays realtive to each other. Tuesdays is the lowest with 12,3% of it's flight getting delayed and Thrusday is the higheste with 17,8 % of it's flights getting delayed.
 ![weekday delays](/img/weekday_delays.png)
 
+---
 ***Is there a difference in the amount a delays based on the carrier?***  
 Carrier is equivalant to airline and even though there is quite a difference in the airlines sizes and the amount of flights they each handle, that isn't something that's reflected in the amount of delays they each have. 
 ![enter image description here](/img/dcarrier_delays.png)
 
 There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %. The mean delay percentage is 17.9%. Even though the data only is based on two months of data, each airline have a lot of flights which makes these calculations more reliable.
 
+---
 ***Is there a difference in the amount a delays based on the departure airport?***  
 Airports in the US, which are included in this dataset, comes in many different sizes. One thing we can conclude when we plot deplayed flights in relation to how many flights the airport handles, is that airports with few flights (probably small airports) tends to have more departuring flights that gets delayed. In fact the amount of delays is quite significant as the nine airports with most delays have between 30 and 40 % of their flights delayed.
 ![origin delays](/img/origin_delays.png)
 
+---
 ***Is there a difference in the amount a delays based on the arrival airport?***  
 As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. The airport with the higeste percentage of delays is Muskegon airport (mkg) in Michigan where 47.5 % of all arrivals are delayed
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjQwNjU4NywtMTk5MTkxNDAxNyw4Mj
+eyJoaXN0b3J5IjpbMTQzNDEwMTEwNiwtMTk5MTkxNDAxNyw4Mj
 E0NzI0MjcsLTc4ODA1NDQ0NCwtMTE2MDc3MTc4NSwtMzM0MTQ5
 MDQsLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMT
 I4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEy
