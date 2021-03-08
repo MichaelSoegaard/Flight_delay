@@ -45,6 +45,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Dimensionality reduction by using SVD due to very large and sparse dataset.
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
+There is an imbalance between the two target classes, but as long as we sue a metric such as ROC AUC it shouldnt be a problem.
+
+
 ### Data analysis
 ***Are we more likely to experince delays at specific dates?***  
 When we look at delays in relation to day of month, there isn't a very clear trend. The 18th is the day with most delays, as **25%** of it's flight get delayed, while the day with fewest delays is the 9th, with **10%** of it's flights getting delayed. The percentage is relative to the days amount of flights. 
@@ -69,7 +72,7 @@ As with depature airports, there seems to be an overweight of smaller airports w
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU5NzMwNSwtMTk5MTkxNDAxNyw4Mj
+eyJoaXN0b3J5IjpbMTI5MjkxNTA0MiwtMTk5MTkxNDAxNyw4Mj
 E0NzI0MjcsLTc4ODA1NDQ0NCwtMTE2MDc3MTc4NSwtMzM0MTQ5
 MDQsLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMT
 I4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEy
