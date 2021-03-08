@@ -10,7 +10,6 @@ The question we are going to answer is:
  - Is there a difference in the amount a delays based on the carrier?
  - Is there a difference in the amount a delays based on the departure airport?
  - Is there a difference in the amount a delays based on the arrival airport?
- - Is there a difference in the amount a delays based on length of flight?
 
 ### Conclusions
 After some data cleaning it was possible to predict flight delays.
@@ -71,11 +70,11 @@ As with depature airports, there seems to be an overweight of smaller airports w
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNDcyNDI3LC03ODgwNTQ0NDQsLTExNj
-A3NzE3ODUsLTMzNDE0OTA0LC0xNDMwNzAwOTIsMTk2NzYwNzc5
-Niw0NTA5Nzc2NDksLTEyODg1OTk2MzQsLTEyODg1OTk2MzQsMj
-A5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NTQ1MDY0NDUsNTMwNDA2
-MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC0xNTYxMzY3NDcsLT
-E1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NCwtMTAz
-MzM3MDcyNV19
+eyJoaXN0b3J5IjpbLTE5OTE5MTQwMTcsODIxNDcyNDI3LC03OD
+gwNTQ0NDQsLTExNjA3NzE3ODUsLTMzNDE0OTA0LC0xNDMwNzAw
+OTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2MzQsLT
+EyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NTQ1
+MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC
+0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3
+OTI4MzA0NF19
 -->
