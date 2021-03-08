@@ -63,13 +63,13 @@ Carrier is equivalant to airline and even though there is quite a difference in 
 There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %. The mean delay percentage is 17.9%. Even though the data only is based on two months of data, each airline have a lot of flights which makes these calculations more reliable.
 
 ***Is there a difference in the amount a delays based on the departure airport?***  
-
+Airports in the US, which are included in this dataset, comes in many different sizes. One of the things we can conclude when w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDE0OTA0LC0xNDMwNzAwOTIsMTk2Nz
-YwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2MzQsLTEyODg1OTk2
-MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NTQ1MDY0NDUsNT
-MwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC0xNTYxMzY3
-NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3OTI4MzA0NC
-wtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwtMTk4OTQyNTIxNywy
-MDg2MzQ5MTA4XX0=
+eyJoaXN0b3J5IjpbLTk2OTQwNjYzMSwtMzM0MTQ5MDQsLTE0Mz
+A3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMTI4ODU5OTYz
+NCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEyNTAwNSwtMT
+Y1NDUwNjQ0NSw1MzA0MDYwODYsMzI0OTQzOTQxLC02MTE3MjY5
+NjQsLTE1NjEzNjc0NywtMTUzNzY1MzQ1NCwtMTA0NzMxNTk0OS
+wxNDc5MjgzMDQ0LC0xMDMzMzcwNzI1LC0xOTgzNDQ0MDY5LC0x
+OTg5NDI1MjE3XX0=
 -->
