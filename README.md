@@ -67,13 +67,13 @@ Airports in the US, which are included in this dataset, comes in many different 
 ![origin delays](/img/origin_delays.png)
 
 ***Is there a difference in the amount a delays based on the arrival airport?***  
-As with depature airports, there seems to be an overweight 
+As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. That is,  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzNzUyNjEsLTMzNDE0OTA0LC0xND
-MwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2
-MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLT
-E2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2
-OTY0LC0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5ND
-ksMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwt
-MTk4OTQyNTIxN119
+eyJoaXN0b3J5IjpbNjQwNDEyMTMxLC0zMzQxNDkwNCwtMTQzMD
+cwMDkyLDE5Njc2MDc3OTYsNDUwOTc3NjQ5LC0xMjg4NTk5NjM0
+LC0xMjg4NTk5NjM0LDIwOTkwMDM0ODAsMzE0MTI1MDA1LC0xNj
+U0NTA2NDQ1LDUzMDQwNjA4NiwzMjQ5NDM5NDEsLTYxMTcyNjk2
+NCwtMTU2MTM2NzQ3LC0xNTM3NjUzNDU0LC0xMDQ3MzE1OTQ5LD
+E0NzkyODMwNDQsLTEwMzMzNzA3MjUsLTE5ODM0NDQwNjksLTE5
+ODk0MjUyMTddfQ==
 -->
