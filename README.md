@@ -34,7 +34,6 @@ In this project there is a lot of work in preprocessing.
  1. We needed to get rid of redundant columns which didn't add any info to the model, such as ID' for flights and carriers.
  2. We had to create new categorical features based numerical values of other columns.
  3. Target label was created by concatenating delayed flights with flights that were diverted or cancelled. This is clearly a subjective choice, but I choose to treat them all as if the flights were delayed.
- 4. 
 
 ### Data pipeline
 I created Scikit-Learn pipelines for all the models trained. All models used the same pipeline, which involved:
@@ -70,11 +69,11 @@ As with depature airports, there seems to be an overweight of smaller airports w
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE5MTQwMTcsODIxNDcyNDI3LC03OD
-gwNTQ0NDQsLTExNjA3NzE3ODUsLTMzNDE0OTA0LC0xNDMwNzAw
-OTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2MzQsLT
-EyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLTE2NTQ1
-MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2OTY0LC
-0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5NDksMTQ3
-OTI4MzA0NF19
+eyJoaXN0b3J5IjpbLTEwMzU5NzMwNSwtMTk5MTkxNDAxNyw4Mj
+E0NzI0MjcsLTc4ODA1NDQ0NCwtMTE2MDc3MTc4NSwtMzM0MTQ5
+MDQsLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMT
+I4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEy
+NTAwNSwtMTY1NDUwNjQ0NSw1MzA0MDYwODYsMzI0OTQzOTQxLC
+02MTE3MjY5NjQsLTE1NjEzNjc0NywtMTUzNzY1MzQ1NCwtMTA0
+NzMxNTk0OV19
 -->
