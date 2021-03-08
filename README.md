@@ -64,15 +64,16 @@ There's quite a difference between the higheste at 26.5% of all flights delayed 
 
 ***Is there a difference in the amount a delays based on the departure airport?***  
 Airports in the US, which are included in this dataset, comes in many different sizes. One thing we can conclude when we plot deplayed flights in relation to how many flights the airport handles, is that airports with few flights (probably small airports) tends to have more delayed flights. In fact the amount of delays is quite significant as the nine airports with most delays have between 30 and 40 % of their flights delayed.
+![origin delays](/img/origin_delays.png)
 
-
-
+***Is there a difference in the amount a delays based on the arrival airport?***  
+As with depature airports, there seems to be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MDkwMSwtMzM0MTQ5MDQsLTE0MzA3MD
-A5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMTI4ODU5OTYzNCwt
-MTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEyNTAwNSwtMTY1ND
-UwNjQ0NSw1MzA0MDYwODYsMzI0OTQzOTQxLC02MTE3MjY5NjQs
-LTE1NjEzNjc0NywtMTUzNzY1MzQ1NCwtMTA0NzMxNTk0OSwxND
-c5MjgzMDQ0LC0xMDMzMzcwNzI1LC0xOTgzNDQ0MDY5LC0xOTg5
-NDI1MjE3XX0=
+eyJoaXN0b3J5IjpbLTEyOTc0Mzc3MjQsLTMzNDE0OTA0LC0xND
+MwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2
+MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLT
+E2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2
+OTY0LC0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5ND
+ksMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwt
+MTk4OTQyNTIxN119
 -->
