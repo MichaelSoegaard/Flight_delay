@@ -67,9 +67,9 @@ Airports in the US, which are included in this dataset, comes in many different 
 ![origin delays](/img/origin_delays.png)
 
 ***Is there a difference in the amount a delays based on the arrival airport?***  
-As with depature airports, there seems to be 
+As with depature airports, there seems to be an overweight 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0Mzc3MjQsLTMzNDE0OTA0LC0xND
+eyJoaXN0b3J5IjpbLTE4MjAzNzUyNjEsLTMzNDE0OTA0LC0xND
 MwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2
 MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLT
 E2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2
