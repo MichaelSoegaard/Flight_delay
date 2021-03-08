@@ -67,9 +67,9 @@ Airports in the US, which are included in this dataset, comes in many different 
 ![origin delays](/img/origin_delays.png)
 
 ***Is there a difference in the amount a delays based on the arrival airport?***  
-As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. That is,  
+As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. The airport with the higeste percentage of delays is  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNDEyMTMxLC0zMzQxNDkwNCwtMTQzMD
+eyJoaXN0b3J5IjpbMTUwNDg2NTgxLC0zMzQxNDkwNCwtMTQzMD
 cwMDkyLDE5Njc2MDc3OTYsNDUwOTc3NjQ5LC0xMjg4NTk5NjM0
 LC0xMjg4NTk5NjM0LDIwOTkwMDM0ODAsMzE0MTI1MDA1LC0xNj
 U0NTA2NDQ1LDUzMDQwNjA4NiwzMjQ5NDM5NDEsLTYxMTcyNjk2
