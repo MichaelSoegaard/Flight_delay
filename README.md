@@ -45,7 +45,8 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Dimensionality reduction by using SVD due to very large and sparse dataset.
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
-There is an imbalance between the two target classes, but as long as we sue a metric such as ROC AUC it shouldnt be a problem.
+There is an imbalance between the two target classes which indicates wheter the flight was dleayed more than 15 min. or not. But as long as we sue a metric such as ROC AUC it shouldnt be a problem.
+True: Flight delayed > 15 min
 ![enter image description here](/img/imbalance.png)
 
 ### Data analysis
@@ -72,7 +73,7 @@ As with depature airports, there seems to be an overweight of smaller airports w
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQzNTE2MzUsLTE5OTE5MTQwMTcsOD
+eyJoaXN0b3J5IjpbLTEyMzM1NDIxMTcsLTE5OTE5MTQwMTcsOD
 IxNDcyNDI3LC03ODgwNTQ0NDQsLTExNjA3NzE3ODUsLTMzNDE0
 OTA0LC0xNDMwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLT
 EyODg1OTk2MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQx
