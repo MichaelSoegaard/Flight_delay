@@ -46,8 +46,9 @@ I created Scikit-Learn pipelines for all the models trained. All models used the
  - Cross validated gridsearch over SVD components as well as model hyperparameters.
 
 There is an imbalance between the two target classes which indicates wheter the flight was dleayed more than 15 min. or not. But as long as we sue a metric such as ROC AUC it shouldnt be a problem.  
-True: Flight delayed > 15 min.  
-False: Flight not delayed or < 15 min.  
+  
+*True: Flight delayed > 15 min.  
+False: Flight not delayed or < 15 min.*  
 
 ![enter image description here](/img/imbalance.png)
 
@@ -75,11 +76,11 @@ As with depature airports, there seems to be an overweight of smaller airports w
 ![origin delays](/img/origin_delays.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI1NjA3MDQsLTE5OTE5MTQwMTcsOD
-IxNDcyNDI3LC03ODgwNTQ0NDQsLTExNjA3NzE3ODUsLTMzNDE0
-OTA0LC0xNDMwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLT
-EyODg1OTk2MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQx
-MjUwMDUsLTE2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MS
-wtNjExNzI2OTY0LC0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEw
-NDczMTU5NDldfQ==
+eyJoaXN0b3J5IjpbLTE0NTE2Njk4MCwtMTk5MTkxNDAxNyw4Mj
+E0NzI0MjcsLTc4ODA1NDQ0NCwtMTE2MDc3MTc4NSwtMzM0MTQ5
+MDQsLTE0MzA3MDA5MiwxOTY3NjA3Nzk2LDQ1MDk3NzY0OSwtMT
+I4ODU5OTYzNCwtMTI4ODU5OTYzNCwyMDk5MDAzNDgwLDMxNDEy
+NTAwNSwtMTY1NDUwNjQ0NSw1MzA0MDYwODYsMzI0OTQzOTQxLC
+02MTE3MjY5NjQsLTE1NjEzNjc0NywtMTUzNzY1MzQ1NCwtMTA0
+NzMxNTk0OV19
 -->
