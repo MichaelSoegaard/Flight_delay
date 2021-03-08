@@ -63,17 +63,17 @@ Carrier is equivalant to airline and even though there is quite a difference in 
 There's quite a difference between the higheste at 26.5% of all flights delayed and the airline with the loweste rate of delays at 11.4 %. The mean delay percentage is 17.9%. Even though the data only is based on two months of data, each airline have a lot of flights which makes these calculations more reliable.
 
 ***Is there a difference in the amount a delays based on the departure airport?***  
-Airports in the US, which are included in this dataset, comes in many different sizes. One thing we can conclude when we plot deplayed flights in relation to how many flights the airport handles, is that airports with few flights (probably small airports) tends to have more delayed flights. In fact the amount of delays is quite significant as the nine airports with most delays have between 30 and 40 % of their flights delayed.
+Airports in the US, which are included in this dataset, comes in many different sizes. One thing we can conclude when we plot deplayed flights in relation to how many flights the airport handles, is that airports with few flights (probably small airports) tends to have more departuring flights that gets delayed. In fact the amount of delays is quite significant as the nine airports with most delays have between 30 and 40 % of their flights delayed.
 ![origin delays](/img/origin_delays.png)
 
 ***Is there a difference in the amount a delays based on the arrival airport?***  
 As with depature airports, there seems to be an overweight of smaller airports with a high delay rate. The airport with the higeste percentage of delays is Muskegon airport (mkg) in Michigan where 47.5 % of all arrivals are delayed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjk0NjcyLC0zMzQxNDkwNCwtMTQzMD
-cwMDkyLDE5Njc2MDc3OTYsNDUwOTc3NjQ5LC0xMjg4NTk5NjM0
-LC0xMjg4NTk5NjM0LDIwOTkwMDM0ODAsMzE0MTI1MDA1LC0xNj
-U0NTA2NDQ1LDUzMDQwNjA4NiwzMjQ5NDM5NDEsLTYxMTcyNjk2
-NCwtMTU2MTM2NzQ3LC0xNTM3NjUzNDU0LC0xMDQ3MzE1OTQ5LD
-E0NzkyODMwNDQsLTEwMzMzNzA3MjUsLTE5ODM0NDQwNjksLTE5
-ODk0MjUyMTddfQ==
+eyJoaXN0b3J5IjpbLTExNjA3NzE3ODUsLTMzNDE0OTA0LC0xND
+MwNzAwOTIsMTk2NzYwNzc5Niw0NTA5Nzc2NDksLTEyODg1OTk2
+MzQsLTEyODg1OTk2MzQsMjA5OTAwMzQ4MCwzMTQxMjUwMDUsLT
+E2NTQ1MDY0NDUsNTMwNDA2MDg2LDMyNDk0Mzk0MSwtNjExNzI2
+OTY0LC0xNTYxMzY3NDcsLTE1Mzc2NTM0NTQsLTEwNDczMTU5ND
+ksMTQ3OTI4MzA0NCwtMTAzMzM3MDcyNSwtMTk4MzQ0NDA2OSwt
+MTk4OTQyNTIxN119
 -->
